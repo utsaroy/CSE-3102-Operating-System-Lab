@@ -1,4 +1,3 @@
-````markdown
 # Lab 5 — `grep` and `make` (Makefile) Tutorial
 
 **Course/Lab Context:** Operating Systems Lab  \
@@ -795,5 +794,3 @@ You learned:
 - How to search files using `grep` (basic, regex, recursive, context)
 - How `make` builds only changed files using Makefile rules
 - How to write a clean Makefile using variables and pattern rules
-
-````
